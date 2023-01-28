@@ -817,6 +817,10 @@ Equalizers and Gain Knobs
 
    EQ Controls
 
+.. hint:: To make the gain and/or equalizer automatically reset whenever a new
+          track is loaded go to :menuselection:`Preferences --> Equalizers -->
+          Miscellaneous`.
+
 **Gain Knob**
   The gain knob (orange) above the volume fader allows you to adjust the gain applied to the deck.
   Use this to compensate for the differences in recording levels between tracks.
